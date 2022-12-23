@@ -1,3 +1,6 @@
+# !/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 def table_name_fil(names):
     post = []
     for idx_new, spisok_new_new in enumerate(names, 1):
