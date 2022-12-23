@@ -1,3 +1,5 @@
+# !/usr/bin/env python3
+# -*- coding: utf-8 -*-
 import sys
 # import inf
 from inf import table, table_name, table_name_fil
