@@ -1,3 +1,6 @@
+# !/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 def delchis(list1):
     def delchetnechet():
         type = input('Введите even или noteven:\n')
